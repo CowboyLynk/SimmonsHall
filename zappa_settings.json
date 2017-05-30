@@ -1,0 +1,6 @@
+{
+    "dev": {
+        "app_function": "main.app", 
+        "s3_bucket": "zappa-8id2lqsmx"
+    }
+}
